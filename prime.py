@@ -4,7 +4,7 @@ import json
 
 st.set_page_config(layout="wide")
 
-st.title('Prime results ')
+st.title('Prime results : Mandag 19:10 - Stage 4: Flat is Fast - Douce France')
 
 file_path = 'race_results.json'
 
