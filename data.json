@@ -1,0 +1,1031 @@
+{
+  "timestamp": "2025-01-21T20:18:34.836Z",
+  "racerScores": [
+    {
+      "athleteId": 4616335,
+      "name": "Tim Burn (ABR/Sitwell)",
+      "ftsPointTotal": 38,
+      "falPointTotal": 50,
+      "pointTotal": 136,
+      "finPoints": 48
+    },
+    {
+      "athleteId": 593408,
+      "name": "Alex Clare [GXY]",
+      "ftsPointTotal": 14,
+      "falPointTotal": 52,
+      "pointTotal": 135,
+      "finPoints": 69
+    },
+    {
+      "athleteId": 2815992,
+      "name": "Bram van Dinther (Team NL)",
+      "ftsPointTotal": 2,
+      "falPointTotal": 60,
+      "pointTotal": 128,
+      "finPoints": 66
+    },
+    {
+      "athleteId": 4612257,
+      "name": "bl4z praper [VSlo4E]",
+      "ftsPointTotal": 4,
+      "falPointTotal": 51,
+      "pointTotal": 118,
+      "finPoints": 63
+    },
+    {
+      "athleteId": 3140334,
+      "name": "Tue Kruse [DZR]",
+      "ftsPointTotal": 6,
+      "falPointTotal": 54,
+      "pointTotal": 117,
+      "finPoints": 57
+    },
+    {
+      "athleteId": 1498649,
+      "name": "Tilo  Staudacher (COALITION)",
+      "ftsPointTotal": 6,
+      "falPointTotal": 37,
+      "pointTotal": 97,
+      "finPoints": 54
+    },
+    {
+      "athleteId": 2471272,
+      "name": "5. Lammert Dijkstra",
+      "ftsPointTotal": 2,
+      "falPointTotal": 40,
+      "pointTotal": 95,
+      "finPoints": 53
+    },
+    {
+      "athleteId": 66360,
+      "name": "Will Perrin ",
+      "ftsPointTotal": 6,
+      "falPointTotal": 38,
+      "pointTotal": 94,
+      "finPoints": 50
+    },
+    {
+      "athleteId": 3815411,
+      "name": "Kim Damgaard (DZR)",
+      "ftsPointTotal": 0,
+      "falPointTotal": 41,
+      "pointTotal": 93,
+      "finPoints": 52
+    },
+    {
+      "athleteId": 1931872,
+      "name": "Marcel van der Meulen",
+      "ftsPointTotal": 0,
+      "falPointTotal": 20,
+      "pointTotal": 92,
+      "finPoints": 72
+    },
+    {
+      "athleteId": 656171,
+      "name": "Rune Petersen [DZR]",
+      "ftsPointTotal": 0,
+      "falPointTotal": 30,
+      "pointTotal": 86,
+      "finPoints": 56
+    },
+    {
+      "athleteId": 5203565,
+      "name": "Sebastijan Leskovar [VSlo4E]",
+      "ftsPointTotal": 4,
+      "falPointTotal": 25,
+      "pointTotal": 80,
+      "finPoints": 51
+    },
+    {
+      "athleteId": 1444446,
+      "name": "Wouter Bleyaert [HMB]",
+      "ftsPointTotal": 0,
+      "falPointTotal": 17,
+      "pointTotal": 77,
+      "finPoints": 60
+    },
+    {
+      "athleteId": 2410536,
+      "name": "Josh  Metcalfe (ABR)",
+      "ftsPointTotal": 18,
+      "falPointTotal": 36,
+      "pointTotal": 69,
+      "finPoints": 15
+    },
+    {
+      "athleteId": 2293285,
+      "name": "John O’Callaghan (ABR) ",
+      "ftsPointTotal": 0,
+      "falPointTotal": 19,
+      "pointTotal": 69,
+      "finPoints": 50
+    },
+    {
+      "athleteId": 3099708,
+      "name": "Anze Bahc [VSlo4E] YT @WattWasThat",
+      "ftsPointTotal": 0,
+      "falPointTotal": 21,
+      "pointTotal": 68,
+      "finPoints": 47
+    },
+    {
+      "athleteId": 900547,
+      "name": "Matjaz Zupanic (VSlo4E)",
+      "ftsPointTotal": 6,
+      "falPointTotal": 28,
+      "pointTotal": 65,
+      "finPoints": 31
+    },
+    {
+      "athleteId": 4818461,
+      "name": "Neil Atherton (COALITION)",
+      "ftsPointTotal": 0,
+      "falPointTotal": 22,
+      "pointTotal": 64,
+      "finPoints": 42
+    },
+    {
+      "athleteId": 3138161,
+      "name": "Gus Pettey RCC",
+      "ftsPointTotal": 8,
+      "falPointTotal": 29,
+      "pointTotal": 63,
+      "finPoints": 26
+    },
+    {
+      "athleteId": 2973050,
+      "name": "Gasper Matelic [VSlo4E]",
+      "ftsPointTotal": 0,
+      "falPointTotal": 8,
+      "pointTotal": 63,
+      "finPoints": 55
+    },
+    {
+      "athleteId": 1408060,
+      "name": "Maarten Muurmans [TeamNL]",
+      "ftsPointTotal": 0,
+      "falPointTotal": 17,
+      "pointTotal": 57,
+      "finPoints": 40
+    },
+    {
+      "athleteId": 6759470,
+      "name": "Miles Daniels [GXY]",
+      "ftsPointTotal": 0,
+      "falPointTotal": 19,
+      "pointTotal": 56,
+      "finPoints": 37
+    },
+    {
+      "athleteId": 610848,
+      "name": "Stefano Deriu (COALITION)",
+      "ftsPointTotal": 0,
+      "falPointTotal": 18,
+      "pointTotal": 54,
+      "finPoints": 36
+    },
+    {
+      "athleteId": 1331559,
+      "name": "4 Oggy [GXY]",
+      "ftsPointTotal": 0,
+      "falPointTotal": 9,
+      "pointTotal": 54,
+      "finPoints": 45
+    },
+    {
+      "athleteId": 399044,
+      "name": "Jan Moesgaard [DZR ZZ]",
+      "ftsPointTotal": 2,
+      "falPointTotal": 5,
+      "pointTotal": 53,
+      "finPoints": 46
+    },
+    {
+      "athleteId": 15690,
+      "name": "Christian Kjaer [DZR ZZ]",
+      "ftsPointTotal": 0,
+      "falPointTotal": 7,
+      "pointTotal": 51,
+      "finPoints": 44
+    },
+    {
+      "athleteId": 696450,
+      "name": "2 Max Grass [GXY]",
+      "ftsPointTotal": 0,
+      "falPointTotal": 11,
+      "pointTotal": 50,
+      "finPoints": 39
+    },
+    {
+      "athleteId": 482050,
+      "name": "Marc Habets(Team NL)",
+      "ftsPointTotal": 0,
+      "falPointTotal": 13,
+      "pointTotal": 45,
+      "finPoints": 32
+    },
+    {
+      "athleteId": 4818361,
+      "name": "Thomas Hanssens",
+      "ftsPointTotal": 0,
+      "falPointTotal": 2,
+      "pointTotal": 45,
+      "finPoints": 43
+    },
+    {
+      "athleteId": 423830,
+      "falPointTotal": 0,
+      "finPoints": 41,
+      "ftsPointTotal": 0,
+      "name": "Jonathan Shum",
+      "pointTotal": 41
+    },
+    {
+      "athleteId": 4448824,
+      "name": "David Thompson (COALITION)",
+      "ftsPointTotal": 0,
+      "falPointTotal": 19,
+      "pointTotal": 40,
+      "finPoints": 21
+    },
+    {
+      "athleteId": 3550234,
+      "name": "George Westall RAFCA",
+      "ftsPointTotal": 0,
+      "falPointTotal": 4,
+      "pointTotal": 39,
+      "finPoints": 35
+    },
+    {
+      "athleteId": 1202948,
+      "name": "Dean Hunt ABR",
+      "ftsPointTotal": 0,
+      "falPointTotal": 20,
+      "pointTotal": 38,
+      "finPoints": 18
+    },
+    {
+      "athleteId": 2917115,
+      "falPointTotal": 0,
+      "finPoints": 38,
+      "ftsPointTotal": 0,
+      "name": "Luke Cairney",
+      "pointTotal": 38
+    },
+    {
+      "athleteId": 420916,
+      "name": "1. Andy Wells (ABR)",
+      "ftsPointTotal": 0,
+      "falPointTotal": 1,
+      "pointTotal": 35,
+      "finPoints": 34
+    },
+    {
+      "athleteId": 368243,
+      "name": "3. Scott Gavens [GXY]",
+      "ftsPointTotal": 0,
+      "falPointTotal": 9,
+      "pointTotal": 34,
+      "finPoints": 25
+    },
+    {
+      "athleteId": 967563,
+      "name": "Jon Phipps RCC",
+      "ftsPointTotal": 4,
+      "falPointTotal": 6,
+      "pointTotal": 33,
+      "finPoints": 23
+    },
+    {
+      "athleteId": 5238856,
+      "falPointTotal": 0,
+      "finPoints": 33,
+      "ftsPointTotal": 0,
+      "name": "Pj Bruynooghe (WATT)",
+      "pointTotal": 33
+    },
+    {
+      "athleteId": 45102,
+      "falPointTotal": 0,
+      "finPoints": 30,
+      "ftsPointTotal": 0,
+      "name": "J K",
+      "pointTotal": 30
+    },
+    {
+      "athleteId": 4790855,
+      "name": "Ben Apers [HMB]",
+      "ftsPointTotal": 0,
+      "falPointTotal": 2,
+      "pointTotal": 29,
+      "finPoints": 27
+    },
+    {
+      "athleteId": 1602133,
+      "falPointTotal": 0,
+      "finPoints": 29,
+      "ftsPointTotal": 0,
+      "name": "2 Jens [WATT]",
+      "pointTotal": 29
+    },
+    {
+      "athleteId": 1249318,
+      "falPointTotal": 0,
+      "finPoints": 28,
+      "ftsPointTotal": 0,
+      "name": "6 Bastiaan Teijgeler",
+      "pointTotal": 28
+    },
+    {
+      "athleteId": 4633405,
+      "falPointTotal": 0,
+      "finPoints": 24,
+      "ftsPointTotal": 0,
+      "name": "Niels vanbelle[WATT]",
+      "pointTotal": 24
+    },
+    {
+      "athleteId": 260335,
+      "falPointTotal": 0,
+      "finPoints": 22,
+      "ftsPointTotal": 0,
+      "name": "Wout Van Den Driessche [HMB]",
+      "pointTotal": 22
+    },
+    {
+      "athleteId": 930356,
+      "falPointTotal": 0,
+      "finPoints": 20,
+      "ftsPointTotal": 0,
+      "name": "3 John(GXY)",
+      "pointTotal": 20
+    },
+    {
+      "athleteId": 1613313,
+      "falPointTotal": 0,
+      "finPoints": 19,
+      "ftsPointTotal": 0,
+      "name": "Laurens Haerinck",
+      "pointTotal": 19
+    },
+    {
+      "athleteId": 5294189,
+      "falPointTotal": 0,
+      "finPoints": 17,
+      "ftsPointTotal": 0,
+      "name": "Leon Kogovšek [VSlo4E]",
+      "pointTotal": 17
+    },
+    {
+      "athleteId": 3406653,
+      "falPointTotal": 0,
+      "finPoints": 16,
+      "ftsPointTotal": 0,
+      "name": "L. V.(WATT)",
+      "pointTotal": 16
+    },
+    {
+      "athleteId": 1205786,
+      "falPointTotal": 0,
+      "finPoints": 14,
+      "ftsPointTotal": 0,
+      "name": "Matt Tompkins INC",
+      "pointTotal": 14
+    },
+    {
+      "athleteId": 396638,
+      "falPointTotal": 0,
+      "finPoints": 13,
+      "ftsPointTotal": 0,
+      "name": "wesley geldhof (#PLVT)",
+      "pointTotal": 13
+    },
+    {
+      "athleteId": 553907,
+      "falPointTotal": 0,
+      "finPoints": 12,
+      "ftsPointTotal": 0,
+      "name": "Allan Japhetson [DZR ZZ]",
+      "pointTotal": 12
+    },
+    {
+      "athleteId": 4771380,
+      "falPointTotal": 0,
+      "finPoints": 11,
+      "ftsPointTotal": 0,
+      "name": "Ben Probert",
+      "pointTotal": 11
+    },
+    {
+      "athleteId": 574571,
+      "falPointTotal": 0,
+      "finPoints": 10,
+      "ftsPointTotal": 0,
+      "name": "Henning Fischer RCC",
+      "pointTotal": 10
+    },
+    {
+      "athleteId": 5193743,
+      "falPointTotal": 0,
+      "finPoints": 9,
+      "ftsPointTotal": 0,
+      "name": "4. N. Darcis [WATT]",
+      "pointTotal": 9
+    },
+    {
+      "athleteId": 3247602,
+      "falPointTotal": 0,
+      "finPoints": 8,
+      "ftsPointTotal": 0,
+      "name": "Oliver Moore RCC",
+      "pointTotal": 8
+    },
+    {
+      "athleteId": 5980815,
+      "falPointTotal": 0,
+      "finPoints": 7,
+      "ftsPointTotal": 0,
+      "name": "Arthur Devos [HMB]",
+      "pointTotal": 7
+    },
+    {
+      "athleteId": 1397050,
+      "falPointTotal": 0,
+      "finPoints": 6,
+      "ftsPointTotal": 0,
+      "name": " Jonbeton [HMB]",
+      "pointTotal": 6
+    },
+    {
+      "athleteId": 5240312,
+      "falPointTotal": 0,
+      "finPoints": 5,
+      "ftsPointTotal": 0,
+      "name": "Gilles F",
+      "pointTotal": 5
+    },
+    {
+      "athleteId": 177419,
+      "falPointTotal": 0,
+      "finPoints": 4,
+      "ftsPointTotal": 0,
+      "name": "Carl Rose",
+      "pointTotal": 4
+    },
+    {
+      "athleteId": 6221127,
+      "falPointTotal": 0,
+      "finPoints": 3,
+      "ftsPointTotal": 0,
+      "name": "Simon Claeys",
+      "pointTotal": 3
+    },
+    {
+      "athleteId": 389892,
+      "falPointTotal": 0,
+      "finPoints": 2,
+      "ftsPointTotal": 0,
+      "name": "Kenny3 Alluyn [Watt]",
+      "pointTotal": 2
+    }
+  ],
+  "segmentScores": [
+    {
+      "name": "Ballon Sprint",
+      "repeat": 1,
+      "segmentId": "1060626709",
+      "fts": [
+        {
+          "athleteId": 2410536,
+          "name": "Josh  Metcalfe (ABR)",
+          "points": 10
+        },
+        {
+          "athleteId": 4616335,
+          "name": "Tim Burn (ABR/Sitwell)",
+          "points": 8
+        },
+        {
+          "athleteId": 1498649,
+          "name": "Tilo  Staudacher (COALITION)",
+          "points": 6
+        },
+        {
+          "athleteId": 5203565,
+          "name": "Sebastijan Leskovar [VSlo4E]",
+          "points": 4
+        },
+        {
+          "athleteId": 2471272,
+          "name": "5. Lammert Dijkstra",
+          "points": 2
+        }
+      ],
+      "fal": [
+        {
+          "athleteId": 1202948,
+          "name": "Dean Hunt ABR",
+          "points": 20
+        },
+        {
+          "athleteId": 4448824,
+          "name": "David Thompson (COALITION)",
+          "points": 19
+        },
+        {
+          "athleteId": 4818461,
+          "name": "Neil Atherton (COALITION)",
+          "points": 18
+        },
+        {
+          "athleteId": 1498649,
+          "name": "Tilo  Staudacher (COALITION)",
+          "points": 17
+        },
+        {
+          "athleteId": 2815992,
+          "name": "Bram van Dinther (Team NL)",
+          "points": 16
+        },
+        {
+          "athleteId": 3099708,
+          "name": "Anze Bahc [VSlo4E] YT @WattWasThat",
+          "points": 15
+        },
+        {
+          "athleteId": 4616335,
+          "name": "Tim Burn (ABR/Sitwell)",
+          "points": 14
+        },
+        {
+          "athleteId": 2471272,
+          "name": "5. Lammert Dijkstra",
+          "points": 13
+        },
+        {
+          "athleteId": 2410536,
+          "name": "Josh  Metcalfe (ABR)",
+          "points": 12
+        },
+        {
+          "athleteId": 610848,
+          "name": "Stefano Deriu (COALITION)",
+          "points": 11
+        },
+        {
+          "athleteId": 3138161,
+          "name": "Gus Pettey RCC",
+          "points": 10
+        },
+        {
+          "athleteId": 3140334,
+          "name": "Tue Kruse [DZR]",
+          "points": 9
+        },
+        {
+          "athleteId": 2973050,
+          "name": "Gasper Matelic [VSlo4E]",
+          "points": 8
+        },
+        {
+          "athleteId": 5203565,
+          "name": "Sebastijan Leskovar [VSlo4E]",
+          "points": 7
+        },
+        {
+          "athleteId": 967563,
+          "name": "Jon Phipps RCC",
+          "points": 6
+        },
+        {
+          "athleteId": 1331559,
+          "name": "4 Oggy [GXY]",
+          "points": 5
+        },
+        {
+          "athleteId": 593408,
+          "name": "Alex Clare [GXY]",
+          "points": 4
+        },
+        {
+          "athleteId": 4612257,
+          "name": "bl4z praper [VSlo4E]",
+          "points": 3
+        },
+        {
+          "athleteId": 66360,
+          "name": "Will Perrin ",
+          "points": 2
+        },
+        {
+          "athleteId": 900547,
+          "name": "Matjaz Zupanic (VSlo4E)",
+          "points": 1
+        }
+      ]
+    },
+    {
+      "name": "Aqueduc KOM",
+      "repeat": 1,
+      "segmentId": "26808702653",
+      "fts": [
+        {
+          "athleteId": 4616335,
+          "name": "Tim Burn (ABR/Sitwell)",
+          "points": 10
+        },
+        {
+          "athleteId": 2410536,
+          "name": "Josh  Metcalfe (ABR)",
+          "points": 8
+        },
+        {
+          "athleteId": 593408,
+          "name": "Alex Clare [GXY]",
+          "points": 6
+        },
+        {
+          "athleteId": 900547,
+          "name": "Matjaz Zupanic (VSlo4E)",
+          "points": 4
+        },
+        {
+          "athleteId": 2815992,
+          "name": "Bram van Dinther (Team NL)",
+          "points": 2
+        }
+      ],
+      "fal": [
+        {
+          "athleteId": 2815992,
+          "name": "Bram van Dinther (Team NL)",
+          "points": 20
+        },
+        {
+          "athleteId": 3815411,
+          "name": "Kim Damgaard (DZR)",
+          "points": 19
+        },
+        {
+          "athleteId": 3140334,
+          "name": "Tue Kruse [DZR]",
+          "points": 18
+        },
+        {
+          "athleteId": 1408060,
+          "name": "Maarten Muurmans [TeamNL]",
+          "points": 17
+        },
+        {
+          "athleteId": 656171,
+          "name": "Rune Petersen [DZR]",
+          "points": 16
+        },
+        {
+          "athleteId": 593408,
+          "name": "Alex Clare [GXY]",
+          "points": 15
+        },
+        {
+          "athleteId": 2410536,
+          "name": "Josh  Metcalfe (ABR)",
+          "points": 14
+        },
+        {
+          "athleteId": 4612257,
+          "name": "bl4z praper [VSlo4E]",
+          "points": 13
+        },
+        {
+          "athleteId": 6759470,
+          "name": "Miles Daniels [GXY]",
+          "points": 12
+        },
+        {
+          "athleteId": 900547,
+          "name": "Matjaz Zupanic (VSlo4E)",
+          "points": 11
+        },
+        {
+          "athleteId": 66360,
+          "name": "Will Perrin ",
+          "points": 10
+        },
+        {
+          "athleteId": 4616335,
+          "name": "Tim Burn (ABR/Sitwell)",
+          "points": 9
+        },
+        {
+          "athleteId": 696450,
+          "name": "2 Max Grass [GXY]",
+          "points": 8
+        },
+        {
+          "athleteId": 1498649,
+          "name": "Tilo  Staudacher (COALITION)",
+          "points": 7
+        },
+        {
+          "athleteId": 2293285,
+          "name": "John O’Callaghan (ABR) ",
+          "points": 6
+        },
+        {
+          "athleteId": 610848,
+          "name": "Stefano Deriu (COALITION)",
+          "points": 5
+        },
+        {
+          "athleteId": 15690,
+          "name": "Christian Kjaer [DZR ZZ]",
+          "points": 4
+        },
+        {
+          "athleteId": 4818461,
+          "name": "Neil Atherton (COALITION)",
+          "points": 3
+        },
+        {
+          "athleteId": 4790855,
+          "name": "Ben Apers [HMB]",
+          "points": 2
+        },
+        {
+          "athleteId": 1444446,
+          "name": "Wouter Bleyaert [HMB]",
+          "points": 1
+        }
+      ]
+    },
+    {
+      "name": "Pavé Sprint",
+      "repeat": 1,
+      "segmentId": "13928706448",
+      "fts": [
+        {
+          "athleteId": 4616335,
+          "name": "Tim Burn (ABR/Sitwell)",
+          "points": 10
+        },
+        {
+          "athleteId": 3138161,
+          "name": "Gus Pettey RCC",
+          "points": 8
+        },
+        {
+          "athleteId": 66360,
+          "name": "Will Perrin ",
+          "points": 6
+        },
+        {
+          "athleteId": 4612257,
+          "name": "bl4z praper [VSlo4E]",
+          "points": 4
+        },
+        {
+          "athleteId": 900547,
+          "name": "Matjaz Zupanic (VSlo4E)",
+          "points": 2
+        }
+      ],
+      "fal": [
+        {
+          "athleteId": 4616335,
+          "name": "Tim Burn (ABR/Sitwell)",
+          "points": 20
+        },
+        {
+          "athleteId": 3138161,
+          "name": "Gus Pettey RCC",
+          "points": 19
+        },
+        {
+          "athleteId": 4612257,
+          "name": "bl4z praper [VSlo4E]",
+          "points": 18
+        },
+        {
+          "athleteId": 66360,
+          "name": "Will Perrin ",
+          "points": 17
+        },
+        {
+          "athleteId": 900547,
+          "name": "Matjaz Zupanic (VSlo4E)",
+          "points": 16
+        },
+        {
+          "athleteId": 2471272,
+          "name": "5. Lammert Dijkstra",
+          "points": 15
+        },
+        {
+          "athleteId": 593408,
+          "name": "Alex Clare [GXY]",
+          "points": 14
+        },
+        {
+          "athleteId": 482050,
+          "name": "Marc Habets(Team NL)",
+          "points": 13
+        },
+        {
+          "athleteId": 3140334,
+          "name": "Tue Kruse [DZR]",
+          "points": 12
+        },
+        {
+          "athleteId": 3815411,
+          "name": "Kim Damgaard (DZR)",
+          "points": 11
+        },
+        {
+          "athleteId": 2410536,
+          "name": "Josh  Metcalfe (ABR)",
+          "points": 10
+        },
+        {
+          "athleteId": 368243,
+          "name": "3. Scott Gavens [GXY]",
+          "points": 9
+        },
+        {
+          "athleteId": 5203565,
+          "name": "Sebastijan Leskovar [VSlo4E]",
+          "points": 8
+        },
+        {
+          "athleteId": 6759470,
+          "name": "Miles Daniels [GXY]",
+          "points": 7
+        },
+        {
+          "athleteId": 2815992,
+          "name": "Bram van Dinther (Team NL)",
+          "points": 6
+        },
+        {
+          "athleteId": 2293285,
+          "name": "John O’Callaghan (ABR) ",
+          "points": 5
+        },
+        {
+          "athleteId": 3550234,
+          "name": "George Westall RAFCA",
+          "points": 4
+        },
+        {
+          "athleteId": 696450,
+          "name": "2 Max Grass [GXY]",
+          "points": 3
+        },
+        {
+          "athleteId": 610848,
+          "name": "Stefano Deriu (COALITION)",
+          "points": 2
+        },
+        {
+          "athleteId": 420916,
+          "name": "1. Andy Wells (ABR)",
+          "points": 1
+        }
+      ]
+    },
+    {
+      "name": "Marina Sprint",
+      "repeat": 1,
+      "segmentId": "18236234779",
+      "fts": [
+        {
+          "athleteId": 4616335,
+          "name": "Tim Burn (ABR/Sitwell)",
+          "points": 10
+        },
+        {
+          "athleteId": 593408,
+          "name": "Alex Clare [GXY]",
+          "points": 8
+        },
+        {
+          "athleteId": 3140334,
+          "name": "Tue Kruse [DZR]",
+          "points": 6
+        },
+        {
+          "athleteId": 967563,
+          "name": "Jon Phipps RCC",
+          "points": 4
+        },
+        {
+          "athleteId": 399044,
+          "name": "Jan Moesgaard [DZR ZZ]",
+          "points": 2
+        }
+      ],
+      "fal": [
+        {
+          "athleteId": 1931872,
+          "name": "Marcel van der Meulen",
+          "points": 20
+        },
+        {
+          "athleteId": 593408,
+          "name": "Alex Clare [GXY]",
+          "points": 19
+        },
+        {
+          "athleteId": 2815992,
+          "name": "Bram van Dinther (Team NL)",
+          "points": 18
+        },
+        {
+          "athleteId": 4612257,
+          "name": "bl4z praper [VSlo4E]",
+          "points": 17
+        },
+        {
+          "athleteId": 1444446,
+          "name": "Wouter Bleyaert [HMB]",
+          "points": 16
+        },
+        {
+          "athleteId": 3140334,
+          "name": "Tue Kruse [DZR]",
+          "points": 15
+        },
+        {
+          "athleteId": 656171,
+          "name": "Rune Petersen [DZR]",
+          "points": 14
+        },
+        {
+          "athleteId": 1498649,
+          "name": "Tilo  Staudacher (COALITION)",
+          "points": 13
+        },
+        {
+          "athleteId": 2471272,
+          "name": "5. Lammert Dijkstra",
+          "points": 12
+        },
+        {
+          "athleteId": 3815411,
+          "name": "Kim Damgaard (DZR)",
+          "points": 11
+        },
+        {
+          "athleteId": 5203565,
+          "name": "Sebastijan Leskovar [VSlo4E]",
+          "points": 10
+        },
+        {
+          "athleteId": 66360,
+          "name": "Will Perrin ",
+          "points": 9
+        },
+        {
+          "athleteId": 2293285,
+          "name": "John O’Callaghan (ABR) ",
+          "points": 8
+        },
+        {
+          "athleteId": 4616335,
+          "name": "Tim Burn (ABR/Sitwell)",
+          "points": 7
+        },
+        {
+          "athleteId": 3099708,
+          "name": "Anze Bahc [VSlo4E] YT @WattWasThat",
+          "points": 6
+        },
+        {
+          "athleteId": 399044,
+          "name": "Jan Moesgaard [DZR ZZ]",
+          "points": 5
+        },
+        {
+          "athleteId": 1331559,
+          "name": "4 Oggy [GXY]",
+          "points": 4
+        },
+        {
+          "athleteId": 15690,
+          "name": "Christian Kjaer [DZR ZZ]",
+          "points": 3
+        },
+        {
+          "athleteId": 4818361,
+          "name": "Thomas Hanssens",
+          "points": 2
+        },
+        {
+          "athleteId": 4818461,
+          "name": "Neil Atherton (COALITION)",
+          "points": 1
+        }
+      ]
+    }
+  ]
+}
