@@ -70,4 +70,4 @@ points_df_sorted.index = range(1,len(points_df_sorted)+1)
 points_df_sorted = points_df_sorted.rename(columns={'':'Name'}).rename(columns={'index':''})
 points_df_sorted.columns.names = ['','Number']
 
-st.dataframe(points_df_sorted)
+st.dataframe(points_df_sorted, use_container_width=True)
